@@ -1,1 +1,3 @@
 assemblyplayground/
+.zig-cache/
+zig-out/
